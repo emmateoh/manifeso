@@ -1,0 +1,9 @@
+{
+  "world": "project-site-board",
+  "seed": "01181daf",
+  "colors": {"navy": "#1a1c43", "red": "#b13a40", "panel": "#ffffff", "ground": "#e4e6e3", "frame": "#a3a9ad", "rule": "#cfd3d5", "ink": "#15162e", "inkSoft": "#464a5c"},
+  "type": {"family": "Archivo", "file": "site/fonts/archivo-latin.woff2", "display": {"stretch": "72%", "weight": 800}, "label": {"stretch": "88%", "weight": 600}, "body": {"stretch": "100%", "weight": 400}},
+  "radius": 0,
+  "frameWidth": "5px",
+  "breakpoints": [600, 900, 1080]
+}

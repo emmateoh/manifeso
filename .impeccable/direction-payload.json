@@ -1,0 +1,90 @@
+{
+  "title": "Choose the visual world for manifesotrading.com",
+  "question": "The roll assigned Site Hi-Vis. Keep it, take an alternate, or re-roll.",
+  "options": [
+    {
+      "id": "assigned",
+      "label": "Site Hi-Vis",
+      "kicker": "THE ROLL",
+      "lineage": "EN ISO 20471 hi-vis vests and induction-stickered hard hats on Qatar tower sites",
+      "thesis": "The website wears what the team wears on site: fluorescent yellow fabric, two silver retroreflective bands, the company name stencilled across the back, and hard-hat induction stickers that name every tower the team has been inducted onto.",
+      "palette": ["#E3F21C", "#152447", "#C3C7CB", "#C8323B", "#F4F4EF"],
+      "materials": ["fluorescent polyester mesh", "segmented retroreflective tape", "stencil print", "vinyl induction stickers"],
+      "viewport": "A fluorescent-yellow field owns the upper half: MANIFESO stencilled huge in navy like the back of a vest, crossed by a silver reflective band carrying the three services. Below the band, a real photo of a technician at a rack. WhatsApp + call buttons sit in the band itself; project 'induction stickers' (Voya, R02, Al Wusail, Rawdatama) cluster on the right like a hard hat.",
+      "risk": "Fluorescent yellow is loud; if the photos are not given calm navy and off-white room it turns into a safety poster.",
+      "raised": [
+        {"from": "challenger-split-flap", "raise": "Projects page is a ruled, fixed-column register (project · location · scope · year · status) where rows are the entities and columns never move."},
+        {"from": "challenger-ukiyoe", "raise": "Registration discipline: one fixed keyline grid that every photo and band snaps to, so the loud colour always lands in register."}
+      ]
+    },
+    {
+      "id": "model-pick",
+      "label": "Project Site Board",
+      "kicker": "IMPECCABLE’S PICK",
+      "lineage": "the signboard at every Qatar construction gate: Client / Consultant / Main Contractor / ELV Subcontractor",
+      "thesis": "Every page is a site hoarding board: white aluminium panels with role bands, the project name huge, Manifeso named as the ELV subcontractor, partners as the stacked logo rows.",
+      "palette": ["#FFFFFF", "#152447", "#C8323B", "#1F1F1F", "#D9D4C7"],
+      "materials": ["printed aluminium composite panel", "hoarding plywood", "galvanized frame"],
+      "viewport": "A hoarding-board header: role bands (ELV CONTRACTOR — MANIFESO) over a site photo, services as the board's scope lines.",
+      "risk": "The strongest fit, and also the most familiar: close to what construction companies already ship."
+    },
+    {
+      "id": "challenger-jackfield",
+      "label": "Normalled Jackfield",
+      "verdict": "competitive",
+      "lineage": "patch-bay normalling schedules",
+      "thesis": "Projects and services as numbered lanes on black glass tied by amber link lines, like a patch schedule.",
+      "palette": ["#0B0B0C", "#F2A51A", "#E8E6E1"],
+      "materials": ["black glass", "amber hairline"],
+      "viewport": "Numbered lanes 01–48 with services as linked ports; photos framed in amber.",
+      "case": "Fuses well with structured cabling — your audience knows patch panels by heart; loses on clarity for a contractor who just wants proof and a phone number.",
+      "risk": "Reads as a dark 'tech' dashboard, close to the AI neon look you want to avoid.",
+      "hero": "https://impeccable.style/worlds/cards/operate-b-normalled-jackfield-hero.webp",
+      "board": "https://impeccable.style/worlds/cards/operate-b-normalled-jackfield.webp"
+    },
+    {
+      "id": "challenger-split-flap",
+      "label": "Split-Flap Concourse",
+      "verdict": "declined",
+      "lineage": "rail departure boards",
+      "palette": ["#111111", "#FFFFFF", "#F2B01E"],
+      "materials": ["flap faces", "brushed steel"],
+      "case": "Contractors don't identify with a departures board.",
+      "kept": "Fixed-column register: rows are projects, columns never move.",
+      "hero": "https://impeccable.style/worlds/cards/signals-instruments-split-flap-concourse-hero.webp"
+    },
+    {
+      "id": "challenger-ukiyoe",
+      "label": "Ukiyo-e Registration",
+      "verdict": "declined",
+      "lineage": "Edo woodblock printing",
+      "palette": ["#1E3A5F", "#C8323B", "#F1E6CF"],
+      "materials": ["kozo paper", "pigment blocks"],
+      "case": "No connection to Qatar ELV contracting.",
+      "kept": "Everything lands in register on one fixed keyline.",
+      "hero": "https://impeccable.style/worlds/cards/graphic-worlds-publishing-ukiyoe-block-registration-hero.webp"
+    },
+    {
+      "id": "challenger-vhs",
+      "label": "VHS Rental Wall",
+      "verdict": "declined",
+      "lineage": "video store shelves",
+      "palette": ["#0D0D0D", "#E0312B", "#F7D21E"],
+      "materials": ["clamshell cases"],
+      "case": "Off-subject; reads as novelty.",
+      "kept": "Browse sideways: project photo strips scroll horizontally on phones.",
+      "hero": "https://impeccable.style/worlds/cards/vernacular-ephemera-vhs-rental-wall-hero.webp"
+    }
+  ],
+  "reroll": {"registers": ["safer", "bolder"]},
+  "canon": true,
+  "canonCard": {
+    "label": "The category standard",
+    "thesis": "A clean contractor site: white page, navy header, full-width photo hero, services row, project gallery, contact.",
+    "palette": ["#FFFFFF", "#152447", "#C8323B"],
+    "materials": ["clean grid", "site photography"],
+    "viewport": "Photo hero with headline and two buttons, services below.",
+    "risk": "Looks like every other contractor site in Doha."
+  },
+  "steer": true
+}
