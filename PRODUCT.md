@@ -44,7 +44,7 @@ Own project photos (`~/Downloads/manifeso-projects/`):
 - Voya Tower, Lusail Waterfront — CCTV, structured cabling, fiber splicing, 2026.
 - R02 Tower, Lusail (9-floor building) — CCTV, structured cabling, 2025.
 - Al Wusail Tower, City Center — lighting control panels, CCTV, structured cabling, 2026.
-- Rawdatama Park (spelling as the user wrote it; with Al Nakheel Landscaping) — CCTV (pole and wall cameras); year not given.
+- Rawdat Al Hamama Park (with Al Nakheel Landscaping) — CCTV (pole and wall cameras); year not given.
 
 Partners (names only, no logos supplied): Eye of Doha, Arabian Controls, Gazzaoui & Partners, Al Nakheel Landscaping, Boom General Contracting.
 
