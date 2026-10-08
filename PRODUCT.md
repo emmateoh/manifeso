@@ -30,7 +30,7 @@ Visitors are often on a phone on site or forwarded a link on WhatsApp. They judg
 
 - Services: CCTV installation, structured cabling (copper), fiber splicing; lighting-control / automation panel wiring seen at Al Wusail.
 - Subsidiary: Kakana Contracting and Services Company (mention on About page).
-- Contact: Doha, Qatar · +974 5058 1621 (WhatsApp + call) · +974 7788 5324 (call) · manifesotrading@outlook.com.
+- Contact: P.O. Box 24137, 2nd Floor, Building 19, Tariq Bin Ziyad Street, Al Ghanim, Doha, Qatar · +974 5058 1621 (WhatsApp + call) · +974 7788 5324 (call) · manifesotrading@outlook.com.
 - Contact form: Formspree endpoint pending — form must be ready to drop the endpoint in.
 
 ## Brand Commitments
@@ -44,6 +44,7 @@ Own project photos (`~/Downloads/manifeso-projects/`):
 - Voya Tower, Lusail Waterfront — CCTV, structured cabling, fiber splicing, 2026.
 - R02 Tower, Lusail (9-floor building) — CCTV, structured cabling, 2025.
 - Al Wusail Tower, City Center — lighting control panels, CCTV, structured cabling, 2026.
+- Wakra Beach Park, Al Wakra (Al Nakheel Landscaping, for Ashghal) — pole installation, CCTV, fiber splicing, 2024–2025.
 - Rawdat Al Hamama Park (with Al Nakheel Landscaping) — CCTV (pole and wall cameras); year not given.
 
 Partners (names only, no logos supplied): Eye of Doha, Arabian Controls, Gazzaoui & Partners, Al Nakheel Landscaping, Boom General Contracting.
